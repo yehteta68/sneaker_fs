@@ -1,0 +1,9 @@
+import mysql from "mysql2";
+
+export const db = mysql.createPool({
+  host: "localhost",
+  user: "root",
+  password: "",
+  database: "sneaker_shop",
+  port: 3307
+});
