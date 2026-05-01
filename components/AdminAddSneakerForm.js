@@ -54,7 +54,6 @@ export default function AdminAddSneakerForm() {
       <div className="add-header">
         <div>
           <h1>Add New Product</h1>
-          <p>Create a new sneaker item for your shop</p>
         </div>
 
         <Link href="/admin" className="back-admin-btn">

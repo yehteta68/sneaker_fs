@@ -42,7 +42,6 @@ export default function Admin() {
       <div className="admin-header">
         <div>
           <h1>Admin Dashboard</h1>
-          <p>Manage sneaker products</p>
         </div>
 
         <div className="admin-actions">

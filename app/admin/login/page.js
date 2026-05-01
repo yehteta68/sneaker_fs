@@ -1,6 +1,6 @@
 "use client";
 import AdminLoginForm from "@/components/AdminLoginForm";
 
-export default function AdminLoginPage() {
+export default function page() {
   return <AdminLoginForm />;
 }
